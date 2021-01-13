@@ -11,15 +11,21 @@
     },
     "devDependencies": {
         "axios": "^0.21.1",
+        "cross-env": "^7.0.3",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
-        "postcss": "^8.1.14"
+        "postcss": "^8.1.14",
+        "vue-loader": "^15.9.5",
+        "vue-template-compiler": "^2.6.12",
+        "webpack-cli": "^4.3.1"
     },
     "dependencies": {
         "boxicons": "^2.0.7",
         "vue": "^2.6.12",
         "vue-axios": "^3.2.2",
         "vue-router": "^3.4.9",
-        "vuex": "^3.6.0"
+        "vuesax": "^4.0.1-alpha.25",
+        "vuex": "^3.6.0",
+        "vuex-router-sync": "^2.1.1"
     }
 }
